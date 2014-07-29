@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Executive Thin';
+  src: url('Executive-35Thin.eot'); /* IE9 Compat Modes */
+  src: url('Executive-35Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Executive-35Thin.woff') format('woff'), /* Modern Browsers */
+       url('Executive-35Thin.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Executive-35Thin.svg#c5224bc022ad18a670104db47521f6b2') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'Executive 45 Light';
+  src: url('Executive-45Light.eot'); /* IE9 Compat Modes */
+  src: url('Executive-45Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Executive-45Light.woff') format('woff'), /* Modern Browsers */
+       url('Executive-45Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Executive-45Light.svg#76bd029b27c18bcca62f5141419698c1') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'Executive';
+  src: url('Executive-55Regular.eot'); /* IE9 Compat Modes */
+  src: url('Executive-55Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Executive-55Regular.woff') format('woff'), /* Modern Browsers */
+       url('Executive-55Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Executive-55Regular.svg#5ef4d53b7193eb44638a30edbb5ece5d') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Executive 45 Light';
+  src: url('Executive-65Medium.eot'); /* IE9 Compat Modes */
+  src: url('Executive-65Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Executive-65Medium.woff') format('woff'), /* Modern Browsers */
+       url('Executive-65Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Executive-65Medium.svg#be6f6d8fc632253c9fbd722cd66dd83e') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
